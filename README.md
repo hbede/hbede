@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hbede
 - 👀 I’m interested in C, C++, Java, Python, OpenGL
-- 🌱 I’m currently learning C++, Pyhton, Java
+- 🌱 I’m currently learning Java
 - 📖 I'm currently a student at Budapest University of Technology and Economics
 
 <!---
